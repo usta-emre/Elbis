@@ -1,0 +1,12 @@
+C:\Users\emreu\source\repos\Elbis\Elbis\bin\Debug\Elbis.exe.config
+C:\Users\emreu\source\repos\Elbis\Elbis\bin\Debug\Elbis.exe
+C:\Users\emreu\source\repos\Elbis\Elbis\bin\Debug\Elbis.pdb
+C:\Users\emreu\source\repos\Elbis\Elbis\obj\Debug\Elbis.csproj.AssemblyReference.cache
+C:\Users\emreu\source\repos\Elbis\Elbis\obj\Debug\Elbis.Form1.resources
+C:\Users\emreu\source\repos\Elbis\Elbis\obj\Debug\Elbis.Properties.Resources.resources
+C:\Users\emreu\source\repos\Elbis\Elbis\obj\Debug\Elbis.csproj.GenerateResource.cache
+C:\Users\emreu\source\repos\Elbis\Elbis\obj\Debug\Elbis.csproj.CoreCompileInputs.cache
+C:\Users\emreu\source\repos\Elbis\Elbis\obj\Debug\Elbis.exe
+C:\Users\emreu\source\repos\Elbis\Elbis\obj\Debug\Elbis.pdb
+C:\Users\emreu\source\repos\Elbis\Elbis\obj\Debug\Elbis.csproj.ResolveComReference.cache
+C:\Users\emreu\source\repos\Elbis\Elbis\obj\Debug\Elbis.ShowDataForm.resources
